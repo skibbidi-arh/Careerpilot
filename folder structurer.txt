@@ -1,0 +1,62 @@
+careerpilot/
+│
+├── .gitignore
+├── README.md                          # Setup steps, env vars, and architecture diagram
+│
+├── frontend/                          # PILLAR 1 & 4: React App (Vite / Next.js SPA)
+│   ├── package.json
+│   ├── tailwind.config.js
+│   ├── public/
+│   └── src/
+│       ├── assets/
+│       ├── components/                # Reusable UI elements
+│       │   ├── JobCard.jsx            # Pillar 1: Structured job display
+│       │   ├── KanbanBoard.jsx        # Pillar 4: Drag-and-drop tracker
+│       │   ├── CalendarView.jsx       # Pillar 4: Working deadline calendar
+│       │   └── ChatWidget.jsx         # Pillar 3: Assistant streaming chat interface
+│       ├── context/
+│       │   └── AuthContext.jsx
+│       ├── pages/                     # Main views
+│       │   ├── Dashboard.jsx          # Pillar 4: Stats, charts, progress counters
+│       │   ├── JobHunter.jsx          # Pillar 1: Search bar and results view
+│       │   ├── ChatAssistant.jsx      # Pillar 3: Deep conversation & roadmaps view
+│       │   └── ResumeUpload.jsx       # Pillar 2: CV drag-and-drop ingestion UI
+│       ├── services/                  # API communication layers
+│       │   └── api.js                 # Axios/Fetch wrapper pointing to Node backend
+│       ├── App.jsx
+│       └── main.jsx
+│
+├── backend-node/                      # PILLAR 4 & ORCHESTRATION: Express / Fastify
+│   ├── package.json
+│   ├── .env
+│   ├── src/
+│   │   ├── config/
+│   │   │   └── db.js                  # Relational DB connection (PostgreSQL/MongoDB)
+│   │   ├── controllers/
+│   │   │   ├── jobController.js       # Calls external APIs & coordinates with Python AI
+│   │   │   ├── trackerController.js   # CRUD operations for Kanban, To-Do, & Calendar
+│   │   │   └── userController.js      # Core user settings
+│   │   ├── routes/
+│   │   │   ├── jobs.js
+│   │   │   ├── tracker.js
+│   │   │   └── user.js
+│   │   ├── models/                    # Data schemas for tracking productivity
+│   │   │   ├── Application.js         # Applied, Interviewing, Offer, Rejected fields
+│   │   │   ├── Task.js                # To-do items linked to career goals
+│   │   │   └── Goal.js                # Weekly metrics (e.g., "Apply to 5 jobs")
+│   │   └── index.js                   # Server entry point
+│
+└── services-python/                   # PILLAR 2 & 3: FastAPI / LangChain (AI Core)
+    ├── requirements.txt
+    ├── .env
+    ├── app/
+    │   ├── main.py                    # FastAPI app entry point
+    │   ├── config.py                  # API Keys, Vector DB configurations
+    │   ├── services/
+    │   │   ├── rag_engine.py          # Pillar 2: PDF processing, chunking, embedding
+    │   │   ├── job_agent.py           # Pillar 1: Tavily/Serper agent with tool calling
+    │   │   └── chat_assistant.py      # Pillar 3: Chatbot with memory & structured outputs
+    │   └── utils/
+    │       ├── pdf_parser.py          # Extracts raw text from uploaded resumes
+    │       └── scoring.py             # Mathematical/Programmatic fit score matrix
+    └── data/                          # (Optional) Local storage for temporary file uploads
