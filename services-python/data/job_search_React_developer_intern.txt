@@ -1,0 +1,71 @@
+================================================================================
+JOB HUNTING REPORT (Powered by Gemini 3.5 Flash)
+Search Criteria: 'React developer intern'
+Generated On   : 2026-06-04 02:52:21
+================================================================================
+
+### SUMMARY TABLE ###
+
++-------------------------------+--------------------------------+------------------------+
+| Title                         | Company                        | Location               |
++===============================+================================+========================+
+| React.js Intern               | Talentlo                       | United States – Remote |
++-------------------------------+--------------------------------+------------------------+
+| Front End Development Intern  | Andaz Kumar                    | Work from home         |
++-------------------------------+--------------------------------+------------------------+
+| Front End Development Intern  | Namaah Pvt Ltd                 | Work from home         |
++-------------------------------+--------------------------------+------------------------+
+| JavaScript Development Intern | Madrocket Technologies & Media | Work from home         |
++-------------------------------+--------------------------------+------------------------+
+| Web Development Intern        | DOI Soft Tech Private Limited  | Work from home         |
++-------------------------------+--------------------------------+------------------------+
+
+================================================================================
+
+### DETAILED JOB DESCRIPTIONS ###
+
+1. REACT.JS INTERN at TALENTLO
+   📍 Location: United States – Remote
+   🔗 URL     : https://www.remoterocketship.com/us/company/talentlo/jobs/react-js-intern-united-states-remote
+   📝 Summary : Build and enhance user interfaces using React.js with a strong focus on responsiveness and performance.
+   ⚡ Key Requirements:
+      - React.js
+      - Tailwind CSS
+      - REST APIs
+--------------------------------------------------
+2. FRONT END DEVELOPMENT INTERN at ANDAZ KUMAR
+   📍 Location: Work from home
+   🔗 URL     : https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-andaz-kumar1779525353
+   📝 Summary : Collaborate with senior developers to design and implement user interfaces and build interactive web applications using React and Next.js.
+   ⚡ Key Requirements:
+      - React
+      - Redux
+      - Next.js
+--------------------------------------------------
+3. FRONT END DEVELOPMENT INTERN at NAMAAH PVT LTD
+   📍 Location: Work from home
+   🔗 URL     : https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-namaah-pvt-ltd1779365960
+   📝 Summary : Develop advanced frontend features and implement motion design and animations using React.js and modern web technologies.
+   ⚡ Key Requirements:
+      - React.js
+      - GSAP
+      - Three.js
+--------------------------------------------------
+4. JAVASCRIPT DEVELOPMENT INTERN at MADROCKET TECHNOLOGIES & MEDIA
+   📍 Location: Work from home
+   🔗 URL     : https://internshala.com/internship/detail/work-from-home-javascript-development-internship-at-madrocket-technologies-media1776631468
+   📝 Summary : Create and deploy full-stack React applications and build responsive React-based frontends.
+   ⚡ Key Requirements:
+      - React
+      - JavaScript
+      - Firebase
+--------------------------------------------------
+5. WEB DEVELOPMENT INTERN at DOI SOFT TECH PRIVATE LIMITED
+   📍 Location: Work from home
+   🔗 URL     : https://internshala.com/internship/detail/work-from-home-web-development-internship-at-doi-soft-tech-private-limited1780351708
+   📝 Summary : Build conversational avatars for real-time interactions and make the video creation platform faster and smoother using React and TypeScript.
+   ⚡ Key Requirements:
+      - React
+      - TypeScript
+      - Node.js
+--------------------------------------------------
