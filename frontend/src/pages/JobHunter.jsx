@@ -7,16 +7,25 @@ const JobHunter = () => {
     const [query, setQuery] = useState('');
     const [jobs, setJobs] = useState([]);
     const [loading, setLoading] = useState(false);
+    const [error, setError] = useState('');
 
     const handleSearch = async (e) => {
         e.preventDefault();
         if (!query.trim()) return;
 
         setLoading(true);
-        // Calls the Node.js API, which triggers the Python script
-        const results = await searchJobs(query);
-        setJobs(results);
-        setLoading(false);
+        setError('');
+        setJobs([]);
+        try {
+            // Calls the Node.js API, which triggers the Python script
+            const results = await searchJobs(query);
+            setJobs(results);
+        } catch (err) {
+            console.error('Search failed:', err);
+            setError(err.message || 'Something went wrong. Please try again.');
+        } finally {
+            setLoading(false);
+        }
     };
 
     return (
@@ -50,13 +59,19 @@ const JobHunter = () => {
                 </div>
             )}
 
+            {error && (
+                <div className="text-center text-red-600 bg-red-50 p-4 rounded-lg mb-6 max-w-2xl mx-auto">
+                    <p className="font-semibold">⚠️ {error}</p>
+                </div>
+            )}
+
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {jobs.map((job, index) => (
                     <JobCard key={index} job={job} />
                 ))}
             </div>
             
-            {!loading && jobs.length === 0 && query && (
+            {!loading && !error && jobs.length === 0 && query && (
                 <div className="text-center text-gray-500">
                     No jobs found. Try adjusting your search criteria.
                 </div>

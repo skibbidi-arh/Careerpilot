@@ -1,0 +1,82 @@
+================================================================================
+JOB HUNTING REPORT (Powered by Gemini 3.5 Flash)
+Search Criteria: 'test'
+Generated On   : 2026-06-04 03:14:45
+================================================================================
+
+### SUMMARY TABLE ###
+
++--------------------------------------------------------------+---------------------------------------------+-------------------------+
+| Title                                                        | Company                                     | Location                |
++==============================================================+=============================================+=========================+
+| ASL Vocational Rehabilitation Counselor 1 (35 Hour) (Hybrid) | Department of Aging and Disability Services | Waterbury, CT           |
++--------------------------------------------------------------+---------------------------------------------+-------------------------+
+| COMMERCIAL REAL PROP APPRAISER                               | Shawnee County Appraiser's Office           | Topeka, KS              |
++--------------------------------------------------------------+---------------------------------------------+-------------------------+
+| INTM LEGAL INTERN                                            | Shawnee County Counselor's Office           | Topeka, KS              |
++--------------------------------------------------------------+---------------------------------------------+-------------------------+
+| Accountant                                                   | Missouri Office of Administration           | Jefferson City, MO      |
++--------------------------------------------------------------+---------------------------------------------+-------------------------+
+| Business Analyst                                             | Bank of America                             | Tokyo, Japan            |
++--------------------------------------------------------------+---------------------------------------------+-------------------------+
+| Vice President, AI Production Support - FoxNXT               | FOX Entertainment                           | Los Angeles, California |
++--------------------------------------------------------------+---------------------------------------------+-------------------------+
+
+================================================================================
+
+### DETAILED JOB DESCRIPTIONS ###
+
+1. ASL VOCATIONAL REHABILITATION COUNSELOR 1 (35 HOUR) (HYBRID) at DEPARTMENT OF AGING AND DISABILITY SERVICES
+   📍 Location: Waterbury, CT
+   🔗 URL     : https://www.jobapscloud.com/CT/sup/bulpreview.asp?b=&R1=260421&R2=9150EB&R3=001
+   📝 Summary : Provides vocational rehabilitation counseling services to individuals utilizing American Sign Language.
+   ⚡ Key Requirements:
+      - American Sign Language (ASL) proficiency
+      - Vocational rehabilitation counseling background
+      - Ability to work in a hybrid environment
+--------------------------------------------------
+2. COMMERCIAL REAL PROP APPRAISER at SHAWNEE COUNTY APPRAISER'S OFFICE
+   📍 Location: Topeka, KS
+   🔗 URL     : https://jobs.sncoapps.us/Account/Register?reqnum=R002601
+   📝 Summary : Responsible for the annual valuation of all commercial, industrial, multi-family residential, and exempt properties in compliance with state statutes.
+   ⚡ Key Requirements:
+      - High School Diploma or GED
+      - Two years of mass appraisal experience
+      - Completion of 120 hours of IAAO or Appraisal Institute courses
+--------------------------------------------------
+3. INTM LEGAL INTERN at SHAWNEE COUNTY COUNSELOR'S OFFICE
+   📍 Location: Topeka, KS
+   🔗 URL     : https://jobs.sncoapps.us/Account/Register?reqnum=R002618
+   📝 Summary : Performs a variety of legal research and document preparation activities for staff attorneys in governmental legal areas.
+   ⚡ Key Requirements:
+      - 2L law student or above in good standing
+      - Graduate of an accredited Law School
+      - Strong research and legal document preparation skills
+--------------------------------------------------
+4. ACCOUNTANT at MISSOURI OFFICE OF ADMINISTRATION
+   📍 Location: Jefferson City, MO
+   🔗 URL     : https://mocareers.mo.gov/hiretrue/ce3/job-board/5effe9b2-4b89-494b-ac76-c45e25190768
+   📝 Summary : Assists with the purchasing and accounts payable needs for 14 consolidated state agencies within the Division of Accounting.
+   ⚡ Key Requirements:
+      - Critical thinking and problem-solving skills
+      - Proactive team player
+      - Experience in purchasing or accounts payable
+--------------------------------------------------
+5. BUSINESS ANALYST at BANK OF AMERICA
+   📍 Location: Tokyo, Japan
+   🔗 URL     : https://careers.bankofamerica.com/en-us/job-detail/26018632/business-analyst-tokyo-japan
+   📝 Summary : Analyzes business processes and technology requirements to support the Global Technology division in Tokyo.
+   ⚡ Key Requirements:
+      - Business analysis experience
+      - Global Technology division alignment
+      - Strong analytical and communication skills
+--------------------------------------------------
+6. VICE PRESIDENT, AI PRODUCTION SUPPORT - FOXNXT at FOX ENTERTAINMENT
+   📍 Location: Los Angeles, California
+   🔗 URL     : https://www.foxcareers.com/Search/JobDetail/R50030918/vice-president-ai-production-support-foxnxt-fox-entertainment
+   📝 Summary : Leads the AI production support team for FoxNXT to drive innovative entertainment technology solutions.
+   ⚡ Key Requirements:
+      - AI production support expertise
+      - Leadership experience in entertainment technology
+      - Strategic planning and execution skills
+--------------------------------------------------

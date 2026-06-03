@@ -1,0 +1,37 @@
+================================================================================
+JOB HUNTING REPORT (Powered by Gemini 3.5 Flash)
+Search Criteria: 'ml internships in dhaka'
+Generated On   : 2026-06-04 03:15:36
+================================================================================
+
+### SUMMARY TABLE ###
+
++--------------------------+---------------+---------------------+
+| Title                    | Company       | Location            |
++==========================+===============+=====================+
+| Software Engineer Intern | Gigalogy Ltd. | Dhaka, Bangladesh   |
++--------------------------+---------------+---------------------+
+| Backend Developer Intern | Version3.ai   | Bangladesh (Hybrid) |
++--------------------------+---------------+---------------------+
+
+================================================================================
+
+### DETAILED JOB DESCRIPTIONS ###
+
+1. SOFTWARE ENGINEER INTERN at GIGALOGY LTD.
+   📍 Location: Dhaka, Bangladesh
+   🔗 URL     : https://www.instagram.com/p/DYXYB3UDj2w
+   📝 Summary : An internship in Dhaka offering hands-on experience in AI-driven product development and a monthly stipend.
+   ⚡ Key Requirements:
+      - Software engineering foundational skills
+      - Interest or experience in AI-driven product development
+--------------------------------------------------
+2. BACKEND DEVELOPER INTERN at VERSION3.AI
+   📍 Location: Bangladesh (Hybrid)
+   🔗 URL     : https://www.version3.ai/careers/backend-developer-intern
+   📝 Summary : A part-time hybrid internship in Bangladesh focusing on backend development, API integration, and real-world AI/SaaS products.
+   ⚡ Key Requirements:
+      - Node.js (Express/Fastify) or Python (FastAPI/Flask)
+      - SQL (MySQL/PostgreSQL) and NoSQL (MongoDB/Redis)
+      - Familiarity with Agentic AI tools like Claude Code or Codex
+--------------------------------------------------
