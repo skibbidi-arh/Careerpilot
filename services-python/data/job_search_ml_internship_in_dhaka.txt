@@ -1,0 +1,49 @@
+================================================================================
+JOB HUNTING REPORT (Powered by Gemini 3.5 Flash)
+Search Criteria: 'ml internship in dhaka'
+Generated On   : 2026-06-07 21:06:02
+================================================================================
+
+### SUMMARY TABLE ###
+
++-----------------------------------------------------+----------------------+-------------------------+
+| Title                                               | Company              | Location                |
++=====================================================+======================+=========================+
+| Summer Intern- Electrical Safety & AI Automation    | Kontoor Brands, Inc. | Dhaka, Bangladesh       |
++-----------------------------------------------------+----------------------+-------------------------+
+| AI Engineer - Remote Internship                     | Ikigai School Of AI  | Remote (Dhaka-division) |
++-----------------------------------------------------+----------------------+-------------------------+
+| Senior AI Engineer (RAG & Generative AI) Internship | Md Shahbaz Ansari    | Remote (Dhaka-division) |
++-----------------------------------------------------+----------------------+-------------------------+
+
+================================================================================
+
+### DETAILED JOB DESCRIPTIONS ###
+
+1. SUMMER INTERN- ELECTRICAL SAFETY & AI AUTOMATION at KONTOOR BRANDS, INC.
+   📍 Location: Dhaka, Bangladesh
+   🔗 URL     : https://builtin.com/job/summer-intern-electrical-safety-ai-automation/9337159
+   📝 Summary : Automate the identification of electrical safety non-conformities using AI/ML, dataset preparation, and validation against safety standards.
+   ⚡ Key Requirements:
+      - Basic understanding of AI/ML concepts
+      - Familiarity with Python and data handling
+      - Exposure to computer vision or NLP concepts
+--------------------------------------------------
+2. AI ENGINEER - REMOTE INTERNSHIP at IKIGAI SCHOOL OF AI
+   📍 Location: Remote (Dhaka-division)
+   🔗 URL     : https://internshala.com/internship/detail/work-from-home-ai-engineer-remote-internship-at-ikigai-school-of-ai1779378679
+   📝 Summary : Build and iterate on LLM-powered features, prompt pipelines, agent workflows, and RAG systems.
+   ⚡ Key Requirements:
+      - Machine Learning
+      - Artificial intelligence
+      - Python Libraries
+--------------------------------------------------
+3. SENIOR AI ENGINEER (RAG & GENERATIVE AI) INTERNSHIP at MD SHAHBAZ ANSARI
+   📍 Location: Remote (Dhaka-division)
+   🔗 URL     : https://internshala.com/internship/detail/work-from-home-part-time-senior-ai-engineer-rag-generative-ai-internship-at-md-shahbaz-ansari1780381291
+   📝 Summary : Design, develop, and deploy production-grade Retrieval-Augmented Generation (RAG) applications using LLMs and vector databases.
+   ⚡ Key Requirements:
+      - Python
+      - Machine Learning
+      - SQL
+--------------------------------------------------

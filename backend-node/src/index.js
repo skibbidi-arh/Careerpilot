@@ -3,6 +3,7 @@ import cors from 'cors'
 import jobsRouter from './routes/jobs.js'
 import trackerRouter from './routes/tracker.js'
 import userRouter from './routes/user.js'
+import resumeRouter from './routes/resume.js'
 
 const app = express()
 app.use(cors())
@@ -10,6 +11,7 @@ app.use(express.json())
 app.use('/jobs', jobsRouter)
 app.use('/tracker', trackerRouter)
 app.use('/user', userRouter)
+app.use('/resume', resumeRouter)
 
 const port = process.env.PORT || 4000
 app.listen(port, () => {

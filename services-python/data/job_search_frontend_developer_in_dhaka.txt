@@ -1,0 +1,25 @@
+================================================================================
+JOB HUNTING REPORT (Powered by Gemini 3.5 Flash)
+Search Criteria: 'frontend developer in dhaka'
+Generated On   : 2026-06-07 21:07:31
+================================================================================
+
+### SUMMARY TABLE ###
+
++--------------------+----------------------------+-----------------------+
+| Title              | Company                    | Location              |
++====================+============================+=======================+
+| Frontend Developer | Reputable Software Company | Mohakhali DOHS, Dhaka |
++--------------------+----------------------------+-----------------------+
+
+================================================================================
+
+### DETAILED JOB DESCRIPTIONS ###
+
+1. FRONTEND DEVELOPER at REPUTABLE SOFTWARE COMPANY
+   📍 Location: Mohakhali DOHS, Dhaka
+   🔗 URL     : https://www.facebook.com/groups/opentohire/posts/1322722633277755
+   📝 Summary : A full-time Frontend Developer role at a reputable software company in Mohakhali DOHS, Dhaka, offering a salary of BDT 50,000.
+   ⚡ Key Requirements:
+      - Frontend development
+--------------------------------------------------
